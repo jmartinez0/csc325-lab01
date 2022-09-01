@@ -4,10 +4,12 @@
  */
 package edu.farmingdale.csc325.lab01;
 
-/**
+/**2
  *
  * @author juan
  */
 public class NewClass {
-    
+    public static void main(String[] args) {
+        
+    }
 }
